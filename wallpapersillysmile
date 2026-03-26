@@ -1,5 +1,4 @@
-{
-  "wallpapers": [
+"wallpapers": [
     { "id": 1, "type": "image", "url": "https://i.pinimg.com/1200x/99/fa/3e/99fa3e60a495a762971725a57fe84e9d.jpg" },
     { "id": 2, "type": "image", "url": "https://i.pinimg.com/1200x/7f/91/78/7f917892eb2681c836c268595a80634a.jpg" },
     { "id": 3, "type": "image", "url": "https://i.pinimg.com/1200x/68/0f/2e/680f2e4411e41f4a588b2dd66acbe7f1.jpg" },
